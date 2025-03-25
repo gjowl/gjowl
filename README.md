@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gjowl
 - 🌱 I’m currently learning:
-  1. How to build a website
-  2. Machine Learning
+  - How to build a website
+  - Machine Learning
 - 💞️ I’m looking to collaborate on:
   - Anything basketball related, combining data analysis w/ effective communication (interesting plots, well condensed data that tell a story, etc.)
 - 📫 How to reach me:
