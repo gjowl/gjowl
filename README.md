@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @gjowl
-- 🌱 I’m currently learning:
-  - How to build a website: [gjowl-bball](https://gjowl-bball.streamlit.app/)
-  - Machine Learning
-- 💞️ I’m looking to collaborate on:
-  - Anything basketball related, combining data analysis w/ effective communication (interesting plots, well condensed data that tell a story, etc.)
+- 🦉 I'm looking to collaborate on Data Analysis & Effective Science Communication
+- 🏀😸📝 Always happy to chat about anything basketball, cat, or writing related
 - 📫 How to reach me:
-  - Email: gjowl04@gmail.com
+  - Email: gjloiseau@proton.me
 
 <!---
 gjowl/gjowl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
